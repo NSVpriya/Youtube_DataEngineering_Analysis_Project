@@ -6,6 +6,11 @@ The primary objective of this project is to provide insights into the most popul
 
 ## Solution Approach:
 
+### Dataset : 
+The below is the link for Kaggle dataset contains statistics (CSV files) on daily popular YouTube videos over the course of many months. 
+https://www.kaggle.com/datasets/datasnaek/youtube-new
+
+
 1.Data Collection: Utilizes datasets sourced from Kaggle, ensuring access to comprehensive and relevant YouTube data.
 
 2.Automated Data Cleaning: Implements Lambda functions for efficient data cleaning and preprocessing, ensuring high-quality data for analysis.
