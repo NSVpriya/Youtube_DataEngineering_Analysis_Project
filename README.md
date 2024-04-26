@@ -17,7 +17,7 @@ https://www.kaggle.com/datasets/datasnaek/youtube-new
 
 3.ETL Pipeline: Constructs a streamlined ETL pipeline utilizing AWS Glue for seamless data extraction, transformation, and loading.
 
-4. Analysis: Provides detailed reports and visualizations for analyzing the popularity of YouTube content across various content and regions.
+4.Analysis: Provides detailed reports and visualizations for analyzing the popularity of YouTube content across various content and regions.
 
 ## Technologies Used:
 ### Amazon S3:
