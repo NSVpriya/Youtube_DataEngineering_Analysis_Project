@@ -15,24 +15,19 @@ The primary objective of this project is to provide insights into the most popul
 4. Analysis: Provides detailed reports and visualizations for analyzing the popularity of YouTube content across various content and regions.
 
 ## Technologies Used:
-# Amazon S3:
-
+### Amazon S3:
 Storage for raw and processed data.
 
-# AWS Lambda: 
-
+### AWS Lambda: 
 Serverless computing for data preprocessing tasks.
 
-# AWS Glue: 
-
+### AWS Glue: 
 Managed ETL service for data integration and transformation.
 
-# Amazon Athena:
-
+#### Amazon Athena:
 Interactive query service for analyzing data in S3 using standard SQL.
 
-# Vizualization(Microsoft PowerBI) :
-
+### Vizualization(Microsoft PowerBI) :
 Business intelligence platform for data visualization and analytics.
 
 
