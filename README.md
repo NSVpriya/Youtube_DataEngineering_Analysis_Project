@@ -38,7 +38,7 @@ Business intelligence platform for data visualization and analytics.
 
 ## Expected Outcome:
 
-1.Identify Trends:Discover trends in YouTube content popularity, including popular genres, topics, and creators, across various regions.
+1.Identify Trends:Discover popular content using views.
 
 2.Regional Comparisons: Compare the popularity of YouTube content among different regions to understand regional preferences and trends.
 
